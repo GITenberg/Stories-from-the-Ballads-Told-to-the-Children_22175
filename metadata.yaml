@@ -1,0 +1,44 @@
+_repo: Stories-from-the-Ballads-Told-to-the-Children_22175
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cameron, Katharine
+    aliases:
+    - Cameron, Catherine
+    - Cameron, Katherine
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '8229'
+    url: http://www.gutenberg.org/2009/agents/8229
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGregor, Mary Esther Miller
+    alias: Keith, Marian
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '712'
+    url: http://www.gutenberg.org/2009/agents/712
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Children's Anthologies
+gutenberg_issued: '2007-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, Scots -- Adaptations'
+- !lcc 'PZ'
+- !lcsh 'Ballads, English -- Adaptations'
+- !lcsh 'Children''s stories'
+tableOfContents: The Young Tamlane -- Hynde Etin -- Hynde Horn -- Thomas the Rhymer
+  -- Lizzie Lindsay -- The Gay Goshawk -- The Laird o' Logie.
+title: Stories from the Ballads, Told to the Children
+url: http://www.gutenberg.org/ebooks/22175
