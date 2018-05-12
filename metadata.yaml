@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '712'
     url: http://www.gutenberg.org/2009/agents/712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22175#Stories-from-the-Ballads-Told-to-the-Children
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Children's Anthologies
